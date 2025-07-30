@@ -185,6 +185,6 @@
 
 ## Полная документация
 
-Документация доступна [здесь](./docs/postgres-exporter-dashboard.pdf).
+Документация доступна [здесь](./docs/postgres-exporter-dasboard-docs.pdf).
 
 ## License [MIT](./LICENSE.md)
